@@ -1,2 +1,4 @@
-# Cb2330
-Scientific Computing for the Life Sciences - weekly exercise notebooks
+# cb2330-portfolio
+CB2330 Scientific Computing for the Life Sciences - weekly exercise notebooks
+
+Ankita Poppel - Cb2330
